@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack & Tools I Use
 <div>
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,github,vscode,react,python,git,express" />
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,github,vscode,react,mongodb,replit,python,git,githubactions,bots" />
 </div>
 
 ---
