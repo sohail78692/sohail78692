@@ -62,32 +62,49 @@ Automates repetitive tasks using lightweight AI logic.
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Find Me Here
+
 <p align="center">
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="55" />
-  </a>
-  &nbsp;&nbsp;
 
+  <!-- Discord -->
   <a href="https://discord.gg/mFVjQx7Mds" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="55" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
   </a>
-  &nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/sohail-akhtar-49229032a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <!-- GitHub -->
+  <a href="https://github.com/sohail78692" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
   </a>
-  &nbsp;&nbsp;
 
+  <!-- X -->
   <a href="https://x.com/sohail786akh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="55" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
   </a>
-  &nbsp;&nbsp;
 
+  <!-- Gmail -->
   <a href="mailto:sohail786akh@gmail.co" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
   </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
+  </a>
+
+  <!-- Dev.to -->
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="50"
+      style="filter: drop-shadow(0 0 8px #00ffea);" />
+  </a>
+
 </p>
+
+
 
    
 ## 💬 Quote
