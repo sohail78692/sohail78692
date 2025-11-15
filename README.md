@@ -78,7 +78,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/Sohail" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://cdn.simpleicons.org/telegram/ffffff" width="50"
       style="filter: drop-shadow(0 0 8px #00ffea);" />
   </a>
