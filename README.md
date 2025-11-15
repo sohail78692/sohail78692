@@ -49,19 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 **1. Discord Moderation Bot**
-A powerful and customizable moderation bot with advanced logging, commands & error handling.
-
-### ⚡ **2. Web App Starter Kit**
-A clean and optimized starter template for building modern full-stack web applications.
-
-### 🤖 **3. AI Automation Script**
-Automates repetitive tasks using lightweight AI logic.
-
----
-
 ## 🌐 Find Me Here
 
 <p align="center">
@@ -112,19 +99,6 @@ Automates repetitive tasks using lightweight AI logic.
 
 ---
 
-## 😄 Fun Facts About Me
-- I love building bots.  
-- I learn something new every day.  
-- I enjoy clean UI and dark-themed code editors.  
-
----
-
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p>
-
----
 
 ## 👁️ Visitors
 <p align="center">
