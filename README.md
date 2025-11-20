@@ -23,7 +23,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohail78692&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohail78692&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
