@@ -7,7 +7,7 @@
 ### 🚀 Full-Stack Developer | Student | Freelancer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Bot+Developer;Web+App+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Bot+Developer;Web+App+Builder;Always+Learning+New+Things" /> 
 </p>
 
 ---
