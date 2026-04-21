@@ -1,7 +1,7 @@
 <div>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Wavy Header" style="width: 100%; display: block;">
 </div>
-
+ 
 # 👋 Hey, I'm **Sohail Akhtar** 
 
 ### 🚀 Full-Stack Developer | Student | Freelancer
