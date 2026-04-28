@@ -12,7 +12,7 @@
 
 ---
 
-
+ 
 ## 🧑‍💻 About Me
 - 🎓 **Student & Freelancer** passionate about building powerful and scalable applications.
 - 💡 Skilled in **JS, HTML, CSS** with interest in **AI, Bots, Web Apps**.
