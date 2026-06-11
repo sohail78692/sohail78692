@@ -43,12 +43,6 @@
 
 <p align="center">
 
-  <!-- Discord -->
-  <a href="https://discord.gg/mFVjQx7Mds" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="50"
-      style="filter: drop-shadow(0 0 8px #00ffea);" />
-  </a>
-
   <!-- GitHub -->
   <a href="https://github.com/sohail78692" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50"
