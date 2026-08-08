@@ -4,7 +4,7 @@
    
 # 👋 Hey, I'm **Sohail Akhtar**
 
-### 🚀 Student | 
+### 🚀 Student 
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Bot+Developer;Web+App+Builder;Always+Learning+New+Things" /> 
@@ -14,7 +14,7 @@
   
  
 ## 🧑‍💻 About Me
-- 🎓 **Student & Freelancer** passionate about building powerful and scalable applications.
+- 🎓 **Student &** passionate about building powerful and scalable applications.
 - 💡 Skilled in **JS, HTML, CSS** with interest in **AI, Bots, Web Apps**. 
 - 🔥 Always exploring new technologies & improving my craft. 
 
